@@ -43,7 +43,7 @@ I thrive in product-driven environments where engineering, user experience, and 
 - Designing microservices, improving system observability, and enforcing automation-first DevOps practices  
 - Mentoring developers and contributing to high-performing agile teams
 
-**💼 Senior Software Engineer – Agree Mobility (Quest Global), Pune, India & Malmö, Sweden**  
+**💼 Senior Software Engineer – Agreeya Mobility Private Limited (Quest Global), Pune, India & Malmö, Sweden**  
 *October 2017 – February 2021*  
 - Took ownership of a **POC chatbot integration** with IKEA’s order management system  
   - Built demo that allowed customers to **update order delivery** via chatbot on web  
